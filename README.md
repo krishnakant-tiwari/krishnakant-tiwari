@@ -9,7 +9,7 @@
 - Programming Languages: C, C++
 - Web Technologies: HTML, CSS, JavaScript
 - Tools: Git, VS Code <!-- IntelliJ IDEA -->
-- <!-- - Database: MySQL, MongoDB -->
+ <!-- - Database: MySQL, MongoDB -->
 
 <!-- ## Projects
 🌐 [Project 1 Name](Link to Project 1): Brief description  
